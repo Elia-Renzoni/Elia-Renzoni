@@ -4,6 +4,7 @@
 * Loves Distributed Systems, they don’t love me back 🕸️
 * Professional Gopher 🐹
 * LeetCode hater 💀
+* Terrible Linux system admin 🐧
 * elia.renzoni03@gmail.com :envelope:
 
 #
