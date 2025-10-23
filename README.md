@@ -1,6 +1,9 @@
 
-* Computer Science student 🖥️
-* Currently Learning Distributed System and Bare Metal Programming :star2:
+* Computer Science Student 🖥️
+* Sometimes breaks open source projects (sometimes fixes them) ⭐
+* Loves Distributed Systems, they don’t love me back 🕸️
+* Professional Gopher 🐹
+* LeetCode hater 💀
 * elia.renzoni03@gmail.com :envelope:
 
 #
