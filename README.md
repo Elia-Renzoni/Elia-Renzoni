@@ -1,7 +1,7 @@
 
 * Computer Science Student 🖥️
-* Sometimes breaks open source projects (sometimes fixes them) ⭐
-* Loves Distributed Systems, they don’t love me back 🕸️
+* Sometimes breaks open source projects ⭐
+* Interested in Distributed Systems 🕸️
 * Professional Gopher 🐹
 * LeetCode hater 💀
 * Terrible Linux system admin 🐧
