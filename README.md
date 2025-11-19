@@ -1,10 +1,10 @@
 
 * Computer Science Student 🖥️
-* Sometimes breaks open source projects ⭐
-* Interested in Distributed Systems 🕸️
-* Professional Gopher 🐹
-* LeetCode hater 💀
-* Terrible Linux system admin 🐧
+* Sometimes breaks open source projects 
+* Interested in Distributed Systems 
+* Professional Gopher 
+* LeetCode hater 
+* Terrible Linux system admin 
 * elia.renzoni03@gmail.com :envelope:
 
 #
