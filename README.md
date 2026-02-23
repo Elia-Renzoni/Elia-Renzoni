@@ -15,7 +15,7 @@
 # Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,c,js,py,rust" />
+    <img src="https://skillicons.dev/icons?i=go,java,c,py,cpp" />
   </a>
 </p>
 
