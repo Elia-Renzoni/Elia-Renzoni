@@ -1,7 +1,7 @@
 
 * Computer Science Student 🖥️
 * Sometimes breaks open source projects 
-* Interested in Distributed Systems 
+* Interested in Distributed Systems and Databases
 * Gopher 
 * Terrible Linux system admin 
 * elia.renzoni03@gmail.com :envelope:
