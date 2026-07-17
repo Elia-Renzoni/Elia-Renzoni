@@ -1,16 +1,11 @@
 
 * Computer Science Student 🖥️
-* Sometimes breaks open source projects 
-* Interested in Distributed Systems and Databases
-* Gopher 
-* Terrible Linux system admin 
+* Sometimes breaks open source projects.
+* Interested in Distributed Systems and Databases.
+* Gopher.
+* Terrible Linux system admin.
+* Bad at Math.
 * elia.renzoni03@gmail.com :envelope:
-
-#
-![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elia-Renzoni&show_icons=true&theme=trasparent)
-
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elia-Renzoni&layout=pie)](https://github.com/Elia-Renzoni/github-readme-stats)
 
 # Programming Languages
 <p align="center">
