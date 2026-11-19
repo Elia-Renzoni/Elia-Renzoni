@@ -2,9 +2,6 @@
 * Computer Science Student 🖥️
 * Sometimes breaks open source projects.
 * Interested in Distributed Systems and Databases.
-* Gopher.
-* Terrible Linux system admin.
-* Bad at Math.
 * elia.renzoni03@gmail.com :envelope:
 
 # Programming Languages
